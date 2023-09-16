@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+
+    
+}
+.navbar{
+    position:relative;
+    
+    width:100%;
+    height:45px;
+    background-color:skyblue;
+
+    display:inline-flex;
+
+    
+   
+}
+a{
+    text-decoration: none;
+    color:black;
+    
+}
+.home{
+    cursor: pointer;
+    position:relative;
+    left:81%;
+    width:100px;
+    height:40px;
+    
+    
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    text-decoration:none;
+    
+    
+}
+.grid{
+    cursor: pointer;
+    padding-left:5px;
+    position:relative;
+    left:79%;
+    width:100px;
+    height:40px;
+    /* background-color: rgb(26, 255, 0);
+    border:2px solid black; */
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    
+    
+    
+    
+}
+.linkedin{
+    cursor: pointer;
+    position:relative;
+    left:78%;
+    text-align:center;
+    width:100px;
+    height:40px;
+    /* background-color:skyblue;
+    border:2px solid black; */
+    align-items: center;
+    
+    justify-content: center;
+    display:flex;
+
+
+}
+img{
+    height:200px;
+    width:250px;
+    position:relative;
+    left:40%;
+    margin-top:20px;
+
+}
+.headline{
+    position:relative;
+    left:41%;
+    margin-top:10px;
+}
+.body{
+    background-color: blanchedalmond;
+    
+}
+.name{
+    margin-top:2px;
+    position:relative;
+    left:42%;
+    margin-top:20px;
+
+}
+.reg{
+     position:relative;
+    left:41%;
+    margin-top:10px; 
+}
+.insta{
+    height:25px;
+    width:8%;
+    
+    background-color: red;
+    position:relative;
+    left: 43%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+
+}
+.insta-h4{
+    
